@@ -2,7 +2,8 @@
   "mappings": [
     "/content/vv-xwalk/:/",
     "/content/vv-xwalk/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/aem-boilerplate/metadata:/metadata.json",
+    "/content/aem-boilerplate/redirects:/redirects.json"
   ],
   "includes": [
     "/content/vv-xwalk/"
